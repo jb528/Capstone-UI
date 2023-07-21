@@ -15,14 +15,5 @@ The UI layer of DogPro presents the user with an interactive interface where the
 Design Documents
 All relevant design documents related to the UI layer are available in the design folder. These documents provide comprehensive insights into the User Experience (UX) and User Interface (UI) design elements that enhance the usability and look and feel of the application.
 
-Set Up
-- Step 1: Clone the repository to your local machine.
-- Step 2: Install the necessary dependencies in the `package.json` file using `npm install`.
-- Step 3: Set up your database and connect it to the application by updating the database connection string in the application configuration file.
 
-Usage
-- Start the application by running `npm start` in your terminal.
-- Navigate to the specified port on your localhost to interact with the application.
-- Utilize the user interface to create, update, and manage dog profiles.
-- Use the UI to update and track feeding and potty schedules and training plans.
   
